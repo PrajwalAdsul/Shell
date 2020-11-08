@@ -1,7 +1,7 @@
 # Shell Implementation in C language
 
-## Run
- $ make
+## Run :-
+ $ make <br/>
  $ ./shell 
   
 ## Features implemented :-  
