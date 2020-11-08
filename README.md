@@ -1,9 +1,9 @@
 # Shell Implementation in C language
 
-###$make
-###$./shell 
+### $make
+### $./shell 
   
-##Features implemented :-  
+## Features implemented :-  
     Read commands in a loop,
     show prompt,
     run commands,
