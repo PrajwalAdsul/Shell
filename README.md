@@ -1,7 +1,8 @@
 # Shell Implementation in C language
 
-### $make
-### $./shell 
+## Run
+ $ make
+ $ ./shell 
   
 ## Features implemented :-  
     Read commands in a loop,
